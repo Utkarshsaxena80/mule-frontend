@@ -77,7 +77,7 @@ export function TransactionFeed({ transactions, selectedId, onSelect }: Transact
                   </div>
                   <div className="text-right shrink-0">
                     <div className="font-mono font-semibold">
-                      ${tx.amount.toLocaleString()}
+                      ₹{tx.amount.toLocaleString()}
                     </div>
                     <div className={`text-xs font-medium ${
                       tx.riskLevel === "HIGH" 

@@ -7,7 +7,7 @@ import { Link } from "react-router-dom";
 const tiers = [
   {
     name: "Starter",
-    price: "$2,500",
+    price: "₹2,500",
     period: "/month",
     description: "For smaller institutions starting with mule detection",
     features: [
@@ -22,7 +22,7 @@ const tiers = [
   },
   {
     name: "Professional",
-    price: "$7,500",
+    price: "₹7,500",
     period: "/month",
     description: "For mid-size banks with growing transaction volume",
     features: [
