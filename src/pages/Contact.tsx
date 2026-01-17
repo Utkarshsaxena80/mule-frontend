@@ -241,7 +241,7 @@ print(result)`;
                           <div>
                             <p className="font-medium">Phone</p>
                             <a
-                              href="tel:+1-888-555-0123"
+                              href="tel:+91-8923812515"
                               className="text-muted-foreground hover:text-primary transition-colors"
                             >
                               +1 (888) 555-0123
